@@ -1,0 +1,54 @@
+.transactionContainer {
+  width: 500px;
+  margin: auto;
+  border: 2px solid #01051a;
+  background-color: #fff;
+}
+
+.transactionCard {
+  display: flex;
+  text-align: center;
+  border-bottom: 1px solid #01051a;
+  padding: 2rem 1rem;
+}
+
+.transactionCard2 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.receivedImg {
+  border-radius: 50%;
+  border: 1px solid blue;
+  width: 70px;
+  height: 70px;
+  text-align: center;
+}
+
+.received2,
+.received1 {
+  text-align: left;
+  margin-left: 1rem;
+} 
+
+.colour {
+  color: blue;
+}
+
+.colour span {
+  color: #ccc !important;
+}
+
+.received1 h1 {
+  font-size: 2em;
+  padding-bottom: 10px;
+}
+
+.img {
+  margin-top: 1rem;
+  width: 50%;
+  width: 40px;
+  height: 40px;
+  color: blue;
+}
